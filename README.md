@@ -1,4 +1,4 @@
-#Every Repo should include the following:
+# Every Repo should include the following:
 
 * README file
 * .gitignore 
